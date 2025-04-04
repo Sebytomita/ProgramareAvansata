@@ -1,0 +1,13 @@
+com\mycompany\tema5\commands\RemoveCommand.class
+com\mycompany\tema5\Main.class
+com\mycompany\tema5\commands\ReportCommand.class
+com\mycompany\tema5\exceptions\ImageRepositoryException.class
+com\mycompany\tema5\model\Image.class
+com\mycompany\tema5\commands\SaveCommand.class
+com\mycompany\tema5\commands\UpdateCommand.class
+com\mycompany\tema5\commands\AddCommand.class
+com\mycompany\tema5\exceptions\ImageDisplayException.class
+com\mycompany\tema5\exceptions\InvalidCommandException.class
+com\mycompany\tema5\repository\ImageRepository.class
+com\mycompany\tema5\commands\Command.class
+com\mycompany\tema5\commands\LoadCommand.class
